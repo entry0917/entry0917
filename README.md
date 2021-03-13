@@ -5,7 +5,7 @@
 + https://mint-bot.kro.kr/ - Mint bot
 + https://sans.zami.gq/ - Sans bot
 + http://scord.ga/ - Share Discord
-+ Visit [here](https://main.seeun.dev/) et more information
++ Visit [here](https://main.seeun.dev/) and get more information
 ## Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) 
