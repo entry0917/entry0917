@@ -15,8 +15,8 @@
 + Raspberry Pi
 + Tngerine
 + Meat
-+ Fruit (except apple! I unlike apple.)
-## Unlike
++ Fruit (except apple! I hate apple.)
+## Hate
 + Apple
 + Vegetable
 + Homework
