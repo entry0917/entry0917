@@ -16,7 +16,7 @@
 + Tngerine
 + Meat
 + Fruit (except apple! I hate apple.)
-## Hate
+## unlike
 + Apple
 + Vegetable
 + Homework
