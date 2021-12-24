@@ -1,4 +1,4 @@
-# @entry0917
+# @nicknamekr
 ### Hi there! I'm just a student developer in South Korea.
 ## My projects
 ### If you want to see my projects, just see my github account! That's it!<br>Or, you can visit my website : https://main.seeun.dev/ (Website is still developing..)
@@ -20,8 +20,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ## Github Status
-![Github Stats](https://github-readme-stats.vercel.app/api?username=entry0917&show_icons=true&theme=dark)
-   ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=entry0917&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nicknamekr&show_icons=true&theme=dark)
+   ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicknamekr&layout=compact&theme=dark)
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fentry0917&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true)
 ## Social
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
