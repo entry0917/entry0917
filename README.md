@@ -15,8 +15,8 @@
 ## 팀
 ### 참여했던 팀
  1. Team SOB : 2020 Dec ~ 2021 Mar
- 2. Team Locus : ? ~ 2022 Feb
- 3. SERO : 2020 Oct-Nov ~ 2022 June
+ 2. Team Locus : 2021 July ~ 2022 Feb | Team Makalong 으로 이전됨
+ 3. SERO : 2020 Oct-Nov ~ 2022 June | 개인 프로젝트로 이전됨
 ### 참여중인 팀
  1. Team Makarong : 2022 Aug ~
 ## 스킬들
