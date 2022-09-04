@@ -18,7 +18,8 @@
  2. Team Locus : 2021 July ~ 2022 Feb | Team Makalong 으로 이전됨
  3. SERO : 2020 Oct-Nov ~ 2022 June | 개인 프로젝트로 이전됨
 ### 참여중인 팀
- 1. Team Makarong : 2022 Aug ~
+ 1. Team Makarong : 2022 Aug ~ ing
+ 2. Team S&Y : 2022 Sep ~ ing
 ## 스킬들
 ### 프로그래밍 언어
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) 
