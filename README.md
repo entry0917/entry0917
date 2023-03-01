@@ -5,21 +5,9 @@
 프로젝트 목록을 보고 싶으시다면, [여기 (Github)](https://github.com/nicknamekr?tab=repositories)를 클릭해서 프로젝트를 구경해주세요! 대부분의 작업물은 Github에 업로드 하고 있습니다. 
 ### 주요 프로젝트 목록
 
- 1. SpecialBlock (- 프로젝트 종료) : 블록 코딩 사이트 [Entry](https://playentry.org)의 추가 블록입니다. 현재는 업데이트가 중단되었으며 작동하지 않습니다.
- 2. urltool : 단축 사이트인 lrl.kr API를 사용해서 만든 URL 단축 라이브러리입니다. 
- 3. f5click : Python Flask로 만든 장난감 웹사이트입니다. [여기](https://f5click.kro.kr/)서 확인할 수 있습니다.
- 4. ShortenerEngine (~업데이트 중) : Python Flask로 만든 장난감 웹사이트입니다. 단축 URL 웹사이트입니다. [여기](https://sher.kro.kr/)서 확인할 수 있습니다.
- 5. 샌즈봇 : 와 샌즈 아시는구나!
- 6. ProxyGen : Python Flask로 만든 프록시 생성기입니다. https://pgen.kro.kr 이며 오픈소스입니다.
- 7. FM봇 : Discord 웹후크 기능을 사용한 메시지 주작기입니다! https://github.com/nicknamekr/FakeMessageBot-discord
-## 팀
-### 참여했던 팀
- 1. Team SOB : 2020 Dec ~ 2021 Mar
- 2. Team Locus : 2021 July ~ 2022 Feb | Team Makalong 으로 이전됨
- 3. SERO : 2020 Oct-Nov ~ 2022 June | 개인 프로젝트로 이전됨
-### 참여중인 팀
- 1. Team Makarong : 2022 Aug ~ ing
- 2. Team S&Y : 2022 Sep ~ ing
+ 1. Project Falcon
+ 2. Giftcard Generator
+ 3. cultureland Generator
 ## 스킬들
 ### 언어
 ~~Korean~~
