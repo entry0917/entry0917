@@ -1,14 +1,8 @@
-## <span style='background-color: #dcffe4'> 중요 공지!! 새 프로젝트 !! 무제한 파파고 번역기 API NSMTapi </span> 
-# NicknameKR
-안녕하세요, 개발자 Nickname 입니다.
+# Se-Eun Kim
+안녕하세요, 개발자 Se-Eun Kim 입니다.
 여러 프로젝트를 작업하고 있습니다.
 ## 프로젝트
 프로젝트 목록을 보고 싶으시다면, [여기 (Github)](https://github.com/nicknamekr?tab=repositories)를 클릭해서 프로젝트를 구경해주세요! 대부분의 작업물은 Github에 업로드 하고 있습니다. 
-### 주요 프로젝트 목록
-
- 1. Project Falcon
- 2. Giftcard Generator
- 3. cultureland Generator
 ## 스킬들
 ### 언어
 ~~Korean~~
