@@ -5,8 +5,6 @@
 프로젝트 목록을 보고 싶으시다면, [여기 (Github)](https://github.com/nicknamekr?tab=repositories)를 클릭해서 프로젝트를 구경해주세요! 대부분의 작업물은 Github에 업로드 하고 있습니다. 
 ## 스킬들
 ### 언어
-~~Korean~~
-~~English~~
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) 
 ![JavaScript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000) 
@@ -39,5 +37,5 @@
 ![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ## 크레딧
-마크다운 작성 : Stackedit.io
+마크다운 작성 : Stackedit.io<br>
 지금까지 같이 개발에 참여해주신 분들, 도와주신 분들 감사합니다!
